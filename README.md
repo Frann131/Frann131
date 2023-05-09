@@ -14,3 +14,8 @@ My primary focus is on designing and developing attractive and user-friendly int
 In addition to React.js, I also have experience in other front-end technologies such as HTML, CSS, Tailwind, and JavaScript, as well as back-end technologies such as Node.js, Express, Sequelize, and PostgreSQL.
 
 I am passionate about technology and am constantly seeking new ways to improve my skills and stay up-to-date with the latest trends and technologies in web development. I am always interested in challenging and exciting new projects, and I am ready to work as part of a team to create innovative solutions that exceed client expectations.
+
+Contact:
+Email: franmindurry@gmail.com
+Phone: +5493329507281
+LinkedIn: https://www.linkedin.com/in/fmin131/
